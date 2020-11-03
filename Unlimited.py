@@ -43,7 +43,6 @@ if keyVal in customer:
     print("Number Example 8801234567890")
     name = input("Enter 1st Number ")
     name2 = input("Enter 2nd Number ")
-    name3 = input("Enter 3nd Number ")
     i=int(input("Enter Counter "))
     y=0
     while y<i:
